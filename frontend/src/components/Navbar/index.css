@@ -1,0 +1,28 @@
+.container{
+    height: 65px;
+width: 1903px;
+max-width: 100%
+;
+margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.web{
+    cursor: pointer;
+    height: 27px;
+font-size: 25px;
+line-height: 24px;
+text-decoration: none solid rgb(33, 37, 41);
+word-spacing: 0px;
+
+}
+.web1{
+    list-style: none;
+    display: flex;
+    text-decoration: none;
+    color: #212529;
+}
+.li{
+    color: #212529;
+    margin-left: 10px;
+}
